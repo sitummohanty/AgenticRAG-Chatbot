@@ -10,7 +10,7 @@ pinned: false
 license: apache-2.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the chatbot at - https://huggingface.co/spaces/Situm/agenticrag-chatbot
 
 🤖 AgenticRAG Chatbot
 A Python-based intelligent chatbot built with Gradio UI and SmolAgents, capable of answering user queries using agentic reasoning, retrieval-augmented generation (RAG), and tool integrations.
