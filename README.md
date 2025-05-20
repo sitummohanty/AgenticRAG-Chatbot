@@ -32,4 +32,6 @@ AgenticRAG/
 ├── README.md             # You are here
 └── .gitignore            # Python, PyCharm, and venv exclusions
 
+If you are cloning this to your local machine then, you need to create your HF_API_TOKEN (Hugging Face Token) and OPENWEATHER_API_KEY (Open Weather API Key) at https://huggingface.co/settings/tokens and https://openweathermap.org/api.
+
 
